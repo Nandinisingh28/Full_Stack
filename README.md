@@ -1,2 +1,2 @@
 # Full_Stack
-This is a reepository for Full Stack Development
+This is a repository for Full Stack Development
